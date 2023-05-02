@@ -1,4 +1,4 @@
-# Arbitrage-Analysis
+# Arbitrage Analysis
 The purpose of this analysis was to analyze past Bitcoin arbitrage oportunities and identify any trends over time. Analyses was done on a section of Bitcoin price data from January 1st, 2018 - March 31st, 2018 from two popular cryptocurrency exchanges, [Coinbase](https://www.coinbase.com/) and [Bitstamp](https://www.bitstamp.net/). This analysis concludes that Arbitrage oportunities significantly decreased from January to March, as shown by the fact that there were zero profitable arbitrage trades on the middle sample date (February 28th) and the later sample date (March 28th). This conclusion is further supported by the decreasing number of arbitrage spread values greater than zero (January 28th = 1436, February 28th = 1080, March 28th = 1028). 
 
 ---
